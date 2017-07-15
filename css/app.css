@@ -1,0 +1,30 @@
+.container{
+    width:100%;
+    font: 14px Lato sans-serif;
+}
+
+.topDiv{
+    height:150px;
+    text-align: center;
+    border-bottom:1px solid #e4e4e4;
+}
+
+.searchDesc{
+    padding: 20px 0 20px 0;
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.bookName{
+    width: 500px;
+    height: 40px;
+}
+
+.button{
+    width:100px;
+    height:40px;
+    border: none;
+    background-color: #4561E0;
+    color:#fff;
+}
